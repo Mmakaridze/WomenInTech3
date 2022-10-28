@@ -242,12 +242,11 @@
     display: flex;
     -webkit-box-pack: center;
         -ms-flex-pack: center;
-            justify-content: center;
+            justify-content:space-around;
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
-    max-width: 1400px;
-    width: 100%;
     margin-top: 80px;
+
 }
 .section-two-div {
     background-color: #FFFFFF;
@@ -255,8 +254,6 @@
     max-width: 260px;
     width: 100%;
     height: 260px; 
-    margin-right: 20px;
-    margin-bottom: 20px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
