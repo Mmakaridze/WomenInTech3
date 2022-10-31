@@ -569,7 +569,8 @@
 	margin-left: 30px;
 }
 .by-p {
-	font-size: 16px;
+	width: 100%;
+    font-size: 16px;
 	color: white;
 	font-family: 'Candal', sans-serif;
 	padding-top: 5px;

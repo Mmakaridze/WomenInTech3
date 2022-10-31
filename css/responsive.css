@@ -19,6 +19,20 @@
         height: 100%;
     }  
 }
+@media (max-width: 1080px) {
+    .section-four-div2 {
+        flex-direction: column;
+    }
+    .four {
+        margin-bottom: 15px;
+    }
+    .section-three {
+        flex-direction: column;
+    }
+    .section-three-div1 {
+        margin-bottom: 15px;
+    }
+}
 @media (max-width: 1000px) {
     .section-one {
         flex-direction: column;
